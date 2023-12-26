@@ -47,7 +47,7 @@ Remix IDE is a powerful, open-source tool for Solidity development. Here's how t
    - Go to [Remix Ethereum IDE](https://remix.ethereum.org/).
 
 2. **Create New Files:**
-   - In the `File Explorers` tab, create new files: `WrappedVoxaLinkPro.sol` and `VoxaLinkProICO.sol`.
+   - In the `File Explorers` tab, create a new single to have both contracts in a single file: `WrappedVoxaLinkPro.sol` and `VoxaLinkProICO.sol`, or create two new files to have both contracts in two different files. 
 
 3. **Copy and Paste the Code:**
    - Copy the code from your local files and paste it into Remix.
